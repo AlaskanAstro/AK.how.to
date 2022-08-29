@@ -2,6 +2,7 @@ site_name: Alaskan Astro
 site_url: https://wiki.alaskanastro.com
 nav:
     - Home: index.md
-    - Equipment: equipment.md
+    - 'Equipment':
+        - Dew Heaters: dewheaters.md
 theme:
     name: material
