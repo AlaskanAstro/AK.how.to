@@ -1,6 +1,6 @@
 # Welcome to Alaskan Astro How To Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Build site documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
