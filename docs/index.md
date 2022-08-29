@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Alaskan Astro How To Page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
