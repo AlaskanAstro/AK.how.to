@@ -1,17 +1,15 @@
-# Welcome to Alaskan Astro How To Page
+# Welcome to the Alaskan Astro How To Page
 
-Build site documentation visit [mkdocs.org](https://www.mkdocs.org).
+This page is a work in progress but I'll keep it live while it grows. 
 
-## Commands
+## About
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**This page exists with the goal of being a *one stop shop* for basic Astrophotography knowledge.**
 
-## Project layout
+There exist many useful resources for AP across the internet but it can be hard to know where to go next. While I won't claim to always have flawless information I will do my best to report and cite the best I can. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This hobby has a wonderful practice of freely sharing information and I hope to help pay that back with this resource. 
+
+---
+
+*Clean Skies*
