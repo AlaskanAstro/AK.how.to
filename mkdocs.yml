@@ -1,0 +1,4 @@
+site_name: Alaskan Astro
+site_url: https://wiki.alaskanastro.com
+theme:
+    name: material
