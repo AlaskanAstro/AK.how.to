@@ -13,3 +13,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/youtube 
+      link: https://www.youtube.com/c/alaskanastro
+      name: Alaskan Astro on YouTube
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/alaskanastro/
+      name: Alaskan Astro on InstaGram
+    - icon: fontawesome/brands/flickr
+      link: https://www.flickr.com/photos/190466211@N04/?
+      name: Alaskan Astro on Flickr
