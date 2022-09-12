@@ -4,6 +4,12 @@ nav:
     - Home: index.md
     - 'Equipment':
         - Dew Heaters: dewheaters.md
+    - 'Pre-Processing':
+        - Workflow Intro: calintro.md
+        - Bias: bias.md
+        - Flats: flats.md
+        - Darks and Flat-Darks: darks.md
+        - Calibration and Stacking: calstack.md
 theme:
     name: material
     icon: 
