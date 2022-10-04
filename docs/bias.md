@@ -5,7 +5,7 @@
 Every time your camera takes an image, it leaves an electronic fingerprint. The process of reading the information off the sensor and saving it produces a very faint characteristic pattern on every image. This is the Bias signal. The bias signal is identical for a set gain or ISO setting (like how you actually have 10 unique fingerprints), regardless of any other factors like image length or temperature. Every image you take with your camera has bias signal in it. Since this signal is just part of the camera electronics, we don’t want to see it in our finished image. 
 
 <figure markdown>
-  ![268 Bias Frame](img/268bias.jpg){ width="300" }
+  ![268 Bias Frame](https://i.imgur.com/IIEfk74.jpg){ width="300" }
   <figcaption>An overstretched bias image from a QHY268M. Note the pattern of vertical lines. This is the "fingerprint" it leaves on every image. </figcaption>
 </figure>
 
