@@ -15,6 +15,11 @@ We’re going to talk about this idea for each of the calibration frame types �
 
 Since bias is in every image and isn’t affected by length, we want to isolate just the bias signal as much as we can. We do that by taking a picture of… nothing! Capturing bias frames is the easiest calibration process. All you need to do is put a very light-proof cap on your camera and take a large amount of very short exposures. Remember we’re trying to take a picture of *just the electronic signature of taking and saving an image*. Because many astro-cams enter a different video mode at too-short exposures, I recommend making your bias images 0.2s long. Taking 200 is not an unreasonable start. As you’ll see we really only need to do this once and then can reuse the files many times in the future. 
 
+<figure markdown>
+  ![Covered Cameras](https://i.imgur.com/mBixCdJ.jpg){ width="300" }
+  <figcaption>Astrocam and DSLR ready to take bias or dark frames. Solid covers are on all light openings (can't see but the DSLR viewfinder has aluminum foil over it. </figcaption>
+</figure>
+
 So take your 200, very short images of nothing at the same ISO or gain that you took your lights at. Temperature doesn’t matter because there’s no time for thermal noise to build up so quickly. The lens or telescope obviously doesn’t matter because we aren’t letting any light in. 
 
 ## How do we make a Master Bias?
