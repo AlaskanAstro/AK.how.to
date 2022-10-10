@@ -13,7 +13,7 @@ nav:
 theme:
     name: material
     icon: 
-    logo: material/telescope 
+    logo: material-telescope 
 markdown_extensions:
   - attr_list
   - md_in_html
