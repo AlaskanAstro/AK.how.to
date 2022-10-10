@@ -5,7 +5,7 @@
 Every time your camera takes an image, it leaves an electronic fingerprint. The process of reading the information off the sensor and saving it produces a very faint characteristic pattern on every image. This is the Bias signal. The bias signal is identical for a set gain or ISO setting (like how you actually have 10 unique fingerprints), regardless of any other factors like image length or temperature. Every image you take with your camera has bias signal in it. Since this signal is just part of the camera electronics, we don’t want to see it in our finished image. 
 
 <figure markdown>
-  ![268 Bias Frame](https://i.imgur.com/IIEfk74.jpg){ width="300" }
+  ![268 Bias Frame](https://i.imgur.com/IIEfk74.jpg){ width="500" }
   <figcaption>An overstretched bias image from a QHY268M. Note the pattern of vertical lines. This is the "fingerprint" it leaves on every image. </figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ We’re going to talk about this idea for each of the calibration frame types �
 Since bias is in every image and isn’t affected by length, we want to isolate just the bias signal as much as we can. We do that by taking a picture of… nothing! Capturing bias frames is the easiest calibration process. All you need to do is put a very light-proof cap on your camera and take a large amount of very short exposures. Remember we’re trying to take a picture of *just the electronic signature of taking and saving an image*. Because many astro-cams enter a different video mode at too-short exposures, I recommend making your bias images 0.2s long. Taking 200 is not an unreasonable start. As you’ll see we really only need to do this once and then can reuse the files many times in the future. 
 
 <figure markdown>
-  ![Covered Cameras](https://i.imgur.com/mBixCdJ.jpg){ width="300" }
+  ![Covered Cameras](https://i.imgur.com/mBixCdJ.jpg){ width="500" }
   <figcaption>Astrocam and DSLR ready to take bias or dark frames. Solid covers are on all light openings (can't see but the DSLR viewfinder has aluminum foil over it. </figcaption>
 </figure>
 
