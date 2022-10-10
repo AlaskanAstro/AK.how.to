@@ -15,7 +15,7 @@ Darks also help to remove hot pixels, though dithering does this as well.
 
 > Darks do not remove thermal noise
 
-Thermal noise is random, hence the name, noise. While you can reduce thermal noise by cooling your camera, you cannot remove random noise by subtracting other random noise. The only way to reduce noise of any kind is to reduce the source or to take many images to help average it out. That’s basically the fundamental idea behind stacking.
+Thermal noise is random, hence the name: noise. While you can reduce thermal noise by cooling your camera, you cannot remove random noise by subtracting other random noise. The only way to reduce noise of any kind is to reduce the source or to take many images to help average it out. That’s basically the fundamental idea behind stacking.
 
 > Darks may not be helpful if you can’t regulate your camera’s temperature.
 
