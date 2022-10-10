@@ -43,3 +43,26 @@ The process to make a **Master Dark** is largely the same as a Master Bias, thou
 Keep in mind that if you have created several different Master Darks for different exposure lengths, gain/ISO, or temperatures, you will want to save them in an organized manner. Personally I have a folder for the different temperatures I use and then the different exposure lengths inside that. 
 
 Again, we will discuss how to correctly use these Master Darks in the Workflow page. We will also cover something you may have thought of – these Master Darks contain Bias signal. 
+
+## Do I actually need Darks?
+Depending on your camera, the answer may be: no. There are two ends of the spectrum where you may not want darks. 
+
+### You have a DSLR
+The first is **if you cannot regulate the temperature of your camera**, most commonly, using a DSLR. Because the temperature changes throughout the night and your camera may build up heat over time, there is no way to regulate the temperature of a DSLR without heavy DIY modification. If your temperatures are fairly steady through the night, darks may be of some benefit but remember three things:
+> Darks only remove characteristic sensor glow and hot pixels
+
+If you DSLR does not have a patterned sensor glow, there is not much you will remove. If your temperature does not match closely enough you will end up adding or over-subtracting this pattern into your Light subs.
+> Never waste precious clear dark skies to take darks
+
+Because you can’t regulate your temperature, you will almost certainly need to take darks immediately after imaging before the weather changes. Never waste clear skies to take darks, it’s just not worth it. The benefit of taking more Light subs will far outweigh un-regulated Darks. 
+> You will need to make new darks nearly every night
+
+Unless your night time temperatures are constant all night long over multiple days, you will need to make a fresh Master Dark every imaging session. This sounds like a royal pain to me. 
+
+### You have a latest generation AP Cam
+
+The other end of the spectrum is the latest generation of sensors in popular AP cams. These new Sony sensors do not exhibit any characteristic sensor glow so there is nothing to remove in the first place. Darks can still help with hot pixels, though again, dithering does this as well. For these cams, I would call darks *optional* but personally consider it a waste of time and effort. 
+
+Common cameras with this lovely feature are the QHY/ZWO 533, QHY268/ASI2600, and the QHY600/ASI6200. 
+
+Ultimately, you can always experiment yourself and see if Darks benefit your specific gear. Personally, I think they are a waste of time and effort unless you have a dedicated AP cam with regulated cooling and a distinct sensor glow that needs to be removed. 
