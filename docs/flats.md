@@ -25,7 +25,7 @@ This means that anything adjustable like f-stop, filter position, zoom if using 
 
 This is a classic and simple way to take flats with equipment almost anyone has. Simply place a <a href="https://youtu.be/h_m-BjrxmgI" target="_blank">Plain White T</a> over the front of your scope and aim it at zenith (straight up). The morning or even afternoon sky is a great even source of illumination. **Please do not point your scope at the sun.** With a DSLR, set your mode dial to Av (Aperture Priority) mode and take 12-30 images. Again make sure your f-stop stays the same. 
 
-With a dedicated AP cam you’ll need to use your control software of choice (it’s NINA) to find an exposure length that roughly centers the histogram. With NINA’s Flat Wizard, this can be done automatically. Like with Bias, I do recommend keeping the minimum exposure length above 0.2s to avoid weird video readout modes. You may need to experiment with more or fewer layers of T shirt to get a reasonable length exposure. Take a set of Flats for each filter. 
+With a dedicated AP cam you’ll need to use your control software of choice (it’s <a href="https://nighttime-imaging.eu/" target="_blank">NINA</a>) to find an exposure length that roughly centers the histogram. With NINA’s <a href="https://nighttime-imaging.eu/docs/develop/site/tabs/flatwizard/" target="_blank">Flat Wizard</a>, this can be done automatically. Like with Bias, I do recommend keeping the minimum exposure length above 0.2s to avoid weird video readout modes. You may need to experiment with more or fewer layers of T shirt to get a reasonable length exposure. Take a set of Flats for each filter. 
 
 -Insert T-Shirt
 
