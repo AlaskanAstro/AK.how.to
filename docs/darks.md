@@ -38,7 +38,10 @@ Just like with Bias, this is purely to do with the camera sensor, so we cover ou
 
 The process to make a **Master Dark** is largely the same as a Master Bias, though you may tweak the rejection settings having fewer subs. Feel free to simply copy these settings for Image Integration. 
 
-- Insert Image of Darks Int
+<figure markdown>
+  ![Bias Integration](https://i.imgur.com/4AEVGm8.jpg){ width="500" }
+  <figcaption>Settings for Image Integration in PixInsight to create Master Dark</figcaption>
+</figure>
 
 Keep in mind that if you have created several different Master Darks for different exposure lengths, gain/ISO, or temperatures, you will want to save them in an organized manner. Personally I have a folder for the different temperatures I use and then the different exposure lengths inside that. 
 
