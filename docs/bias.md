@@ -28,4 +28,9 @@ Great, now you have a bunch of pictures of nothing. That was easy. Now we want t
 
 Here are the settings I use in PixInsight with the image integration process– they’re the same that WBPP would automatically choose for you anyway. The only fancy bit is the pixel rejection which just looks at outlier values and doesn’t bother averaging them into the final image because they’re so far off from the other 199 samples. 
 
+<figure markdown>
+  ![Bias Integration](https://i.imgur.com/4AEVGm8.jpg){ width="500" }
+  <figcaption>Settings for Image Integration in PixInsight to create Master Bias</figcaption>
+</figure>
+
 Once we’ve run image integration we’re left with our **Master Bias**. This should be a very accurate picture of our camera’s signature. Save it with the following settings and we can reuse it for many months. We’ll use this Master Bias when we begin the actual calibration workflow to remove the bias signal from all our images. 
