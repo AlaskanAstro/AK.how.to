@@ -4,6 +4,8 @@ nav:
     - Home: index.md
     - 'Equipment':
         - Dew Heaters: dewheaters.md
+    - 'Software':
+        - Every AP Software You Should Need: software.md
     - 'Pre-Processing':
         - Workflow Intro: calintro.md
         - Bias: bias.md
