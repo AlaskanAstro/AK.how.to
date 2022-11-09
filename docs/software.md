@@ -51,7 +51,7 @@ Note that you may need to download the beta driver for some latest model cameras
 
 ### DSLR/Mirrorless - Canon, Nikon, Sony
 
-NINA is able to natively control some Canon and Nikon cameras. For others and for most Sony cameras, this 3rd party ASCOM driver has been developed. From what I've heard, it it is functional. Give it a try. 
+NINA is able to natively control some Canon and Nikon cameras. For others and for most Sony cameras, this 3rd party ASCOM driver has been developed. From what I've heard, it is functional. Give it a try. 
 
 <a href="https://www.cloudynights.com/topic/707662-ascomdslr-ascom-driver-for-dslr-cameras-canon-nikon-pentax-sony/" target="_blank">DSLR ASCOM Driver</a>
 
@@ -135,7 +135,7 @@ If for some reason TPPA doesn't work for you, SharpCap Pro is another good, accu
 
 <a href="https://www.sharpcap.co.uk/sharpcap/downloads" target="_blank">SharpCap Pro</a>
 
-Planetarium - Stellarium
+## Planetarium - Stellarium
 
 Stellarium is a wonderful, free software that among many other features, helps you visualize what objects are up in the sky for your location. It is great for planning your targets days, weeks, and even years in advance and is just a joy to explore around. It can be <a href="https://youtu.be/v2gROUlPRhw" target="_blank">connected to NINA</a>
 as well. 
